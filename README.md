@@ -11,3 +11,7 @@
  
  
  点击右上角star 开始自动编译  需要增添插件请自行修改。
+
+带一个每小时自动更新的去广告规则地址    https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host_dnsmasq.conf
+
+一个自用的去广告规则项目地址           https://anti-ad.net/anti-ad-for-dnsmasq.conf   
